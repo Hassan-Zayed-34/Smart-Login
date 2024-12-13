@@ -1,0 +1,26 @@
+body {
+    background-color: #24353f;
+}
+
+.main {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    padding: 50px;
+
+}
+
+
+
+h1 {
+    color: #198FA3;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline !important;
+    color: #000;
+}
